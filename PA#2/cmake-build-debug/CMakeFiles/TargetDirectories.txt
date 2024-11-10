@@ -1,0 +1,3 @@
+/Users/shikhapallavi/WorkSpace/Oops/PA#2/cmake-build-debug/CMakeFiles/PA_2.dir
+/Users/shikhapallavi/WorkSpace/Oops/PA#2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shikhapallavi/WorkSpace/Oops/PA#2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
